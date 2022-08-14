@@ -1,0 +1,10 @@
+print('Olá Bem Vindo a locadora de carros DEV - Unoesc.'
+      '\n===== Nossos Veículos e Valores !=====\n'
+'\n Classes        Valor ao Dia      Valor por Km.'
+'\n1 - Micro         R$20,00     -      R$0,20'
+'\n2 - Compacto      R$35,00     -      R$0,25'
+'\n3 - Luxo          R$45,00     -      R$0,35'
+'\n4 - Esportivo     R$70,00     -      R$0,50'
+'\n5 - Conversível   R$70,00     -      R$0,50'
+'\n6 - SUV           R$50,00     -      R$0,40'
+'\n7 - Pick-Up       R$40,00     -      R$0,30')
